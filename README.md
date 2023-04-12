@@ -20,6 +20,6 @@ Collect battleships that is made depending on historical evidence and Grow your 
 Exclusive in Canada on [Google Play](https://play.google.com/store/apps/details?id=com.bluepotiongames.wow1942bs.google)
 
 # Members
-- Felix Soumpholphakdy, Co-Founder
-- Taehoon Kim, Co-Founder
-- Heedo Woo, Sound Designer
+- **Felix Soumpholphakdy**, Co-Founder
+- **Taehoon Kim**, Co-Founder
+- **Heedo Woo**, Sound Designer

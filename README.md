@@ -1,3 +1,5 @@
+![JellySnow Studio](assets/images/jellysnow_theme.png)
+
 # About Us
 
 JellySnow Studio is an independent video game developer that emphasizes innovative gameplay above all else! With co-founders in both Canada and South Korea, the team thrives by capitalizing on its multicultural strength. JellySnow has released the game titles Metal Unit and World of Warfare : Battleship.
@@ -16,8 +18,6 @@ In "World of Warfare : Battleship", you can grow the strongest fleet in the most
 Collect battleships that is made depending on historical evidence and Grow your own fleet.
 
 Exclusive in Canada on [Google Play](https://play.google.com/store/apps/details?id=com.bluepotiongames.wow1942bs.google)
-
-![JellySnow Studio](assets/images/jellysnow_theme.png)
 
 # Members
 - **Felix Soumpholphakdy**, Co-Founder

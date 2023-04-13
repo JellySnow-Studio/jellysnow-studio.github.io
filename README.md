@@ -2,7 +2,7 @@
 
 # About Us
 
-JellySnow Studio is an independent video game developer that emphasizes innovative gameplay above all else! With co-founders in both Canada and South Korea, the team flourishes by capitalizing on its multicutural strength. JellySnow has released the game titles Metal Unit and World of Warfare : Battleship.
+JellySnow Studio is an independent video game developer that emphasizes innovative gameplay above all else! With co-founders in both Canada and South Korea, the team thrives by capitalizing on its multicultural strength. JellySnow has released the game titles Metal Unit and World of Warfare : Battleship.
 
 # Metal Unit
 

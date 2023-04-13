@@ -2,9 +2,6 @@
 
 JellySnow Studio is an independent video game developer that emphasizes innovative gameplay above all else! With co-founders in both Canada and South Korea, the team thrives by capitalizing on its multicultural strength. JellySnow has released the game titles Metal Unit and World of Warfare : Battleship.
 
-
-![JellySnow Studio](assets/images/jellysnow_theme.png)
-
 # Metal Unit
 
 Metal Unit is a sprawling side-scrolling platformer with roguelite features.
@@ -24,3 +21,7 @@ Exclusive in Canada on [Google Play](https://play.google.com/store/apps/details?
 - **Felix Soumpholphakdy**, Co-Founder
 - **Taehoon Kim**, Co-Founder
 - **Heedo Woo**, Sound Designer
+
+---
+
+![JellySnow Studio](assets/images/jellysnow_theme.png)

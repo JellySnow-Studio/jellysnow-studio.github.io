@@ -1,4 +1,4 @@
-![JellySnow Studio](jellysnow_theme_grey.png)
+![JellySnow Studio](jellysnow_theme.png)
 
 # About Us
 

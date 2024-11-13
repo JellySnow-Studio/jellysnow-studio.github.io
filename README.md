@@ -20,7 +20,6 @@ Exclusive in Canada on [Google Play](https://play.google.com/store/apps/details?
 # Members
 - **Felix Soumpholphakdy**, Co-Founder
 - **Taehoon Kim**, Co-Founder
-- **Heedo Woo**, Co-Founder
 
 ---
 

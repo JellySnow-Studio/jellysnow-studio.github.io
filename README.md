@@ -10,13 +10,6 @@ Wear the M-Unit 11 suit and battle against monsters and aliens while uncovering 
 
 Available on [Steam](https://store.steampowered.com/app/1173200/Metal_Unit/)
 
-# World of Warfare : Battleship
-
-In "World of Warfare : Battleship", you can grow the strongest fleet in the most convenient way.
-Collect battleships that is made depending on historical evidence and Grow your own fleet.
-
-Exclusive in Canada on [Google Play](https://play.google.com/store/apps/details?id=com.bluepotiongames.wow1942bs.google)
-
 # DeckLand
 
 DeckLand is a single-player game combining deck-building, Yut Nori-like mechanics, and roguelite features.
